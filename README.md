@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @JeremyDeveloper
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+# Who am I?
+Hi, I'm Jeremiah, a nerd whos passionate about programming, cybersecurity, information security, and reverse engineering.
 
-<!---
-JeremyDeveloper/JeremyDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skills:
+Languages: C/C++, Java, Lua, Node.js, Python, Ruby
+Specialties: Cybersecurity, InfoSec, Reverse Engineering
+
+# Contact
+Feel free to reach out to me on Discord using @codedjer
+
+**🎗 Also, Israeli & Proud. Bring them Home Now.**
