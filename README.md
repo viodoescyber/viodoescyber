@@ -21,8 +21,4 @@ i care about clean code, predictable logic, and systems that do exactly what the
 
 other tools are under wraps until i'm either done or detained.
 
-### 📱 CONTACT
-
-discord: `@codedjer`. open to collaborations, security research, or just a chat.
-
 **🎗 Also, Israeli & Proud. Bring them Home Now.**
