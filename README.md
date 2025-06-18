@@ -1,6 +1,6 @@
 # 🌸 WHO AM I?
 
-hi. i'm jeremiah. 
+hi. i'm violet. 
 i'm autistic, israeli, and write code like it owes me money.
 i build tools nobody asked for and release them at 4 AM because sleep is an optional side quest i declined.
 
