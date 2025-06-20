@@ -13,7 +13,7 @@ i specialize in:
 
 i care about clean code, predictable logic, and systems that do exactly what they're told. *which is why most of them are now under psychiatric evaluation.*
 
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,lua,python,ruby,js,html,css)
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,java,lua,python,ruby,js,html,css)
 
 ### ✨ THE PROJECTS
 
