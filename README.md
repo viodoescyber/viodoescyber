@@ -19,6 +19,9 @@ i care about clean code, predictable logic, and systems that do exactly what the
 
 [**stegopy**](https://pypi.org/project/stegopy) — a steganography toolkit for embedding data in images, audio, and animated media. designed to be fast, transparent, and unreasonably readable.
 
+[**polybin**](https://pypi.org/project/polybin) — a polyglot builder for ico, mp4, and zip files.
+
+
 other tools are under wraps until i'm either done or detained.
 
 **🎗 Also, Israeli & Proud. Bring them Home Now.**
